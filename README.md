@@ -1,2 +1,2 @@
 # docker
-Repositório destinado a estudos com Docker
+Comandos úteis Docker
